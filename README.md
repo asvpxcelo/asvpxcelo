@@ -11,7 +11,7 @@ Currently studying Systems Analysis and Development at UNISUAM - 3 Semester.
 
 [![Blog](
     https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](marcelosoaresinc@gmail.com)
+)](mailto:marcelosoaresinc@gmail.com)
 
 
 ![Marcelo Soares GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=asvpxcelo&count_private=true&theme=dracula)
