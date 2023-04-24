@@ -4,12 +4,14 @@
 ### I am a 26 year old Front-End developer currently focused on Mobile development with the Flutter framework.
 Currently studying Systems Analysis and Development at UNISUAM - 3 Semester.
 
+
 [![Blog](
     https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/marcelo-soares-997883150/)
 [![Blog](
     https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:marcelosoaresinc@gmail.com)
+
 ![Marcelo Soares GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=asvpxcelo&count_private=true&theme=dracula)
 
 
